@@ -1,0 +1,26 @@
+2023-10-09 12:47:42,433 INFO c.e.d.c.UserController [main] User is not correct. 1
+2023-10-09 12:47:42,462 INFO c.e.d.c.UserController [main] User name is not correct. toannl45
+2023-10-09 12:47:42,475 INFO c.e.d.c.UserController [main] user id is founded 1
+2023-10-09 12:47:42,494 INFO c.e.d.c.UserController [main] User name is founded toannl45
+2023-10-09 13:02:42,079 INFO c.e.d.c.UserController [main] Register Pass toannl45
+2023-10-09 13:02:49,823 INFO c.e.d.c.UserController [main] Register Pass toannl45
+2023-10-09 13:02:58,455 INFO c.e.d.c.UserController [main] User is not correct. 1
+2023-10-09 13:02:58,477 INFO c.e.d.c.UserController [main] User name is not correct. toannl45
+2023-10-09 13:02:58,486 INFO c.e.d.c.UserController [main] user id is founded 1
+2023-10-09 13:02:58,490 INFO c.e.d.c.UserController [main] Register Pass toannl45
+2023-10-09 13:02:58,494 INFO c.e.d.c.UserController [main] User name is founded toannl45
+2023-10-09 13:08:33,354 INFO c.e.d.c.UserController [main] User is not correct. 1
+2023-10-09 13:08:33,386 INFO c.e.d.c.UserController [main] User name is not correct. toannl45
+2023-10-09 13:08:33,395 INFO c.e.d.c.UserController [main] user id is founded 1
+2023-10-09 13:08:33,400 INFO c.e.d.c.UserController [main] Register Pass toannl45
+2023-10-09 13:08:33,401 INFO c.e.d.c.UserController [main] User name is founded toannl45
+2023-10-09 13:08:43,155 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests on LAPTOP-5MAUFBC9 with PID 10932 (started by toankouchiro in E:\projects\toannl4_eCommerce)
+2023-10-09 13:08:43,164 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2023-10-09 13:08:43,166 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-10-09 13:08:49,704 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 6.86 seconds (JVM running for 8.767)
+2023-10-09 13:08:58,025 INFO c.e.d.c.OrderController [main] Save order is OK
+2023-10-09 13:08:58,049 WARN c.e.d.c.OrderController [main] Username is not available.
+2023-10-09 13:08:58,049 WARN c.e.d.c.OrderController [main] Username is not available.
+2023-10-09 13:08:58,051 WARN c.e.d.c.OrderController [main] Username is not available.
+2023-10-09 13:08:58,053 INFO c.e.d.c.OrderController [main] Save order is OK
+2023-10-09 13:08:58,054 INFO c.e.d.c.OrderController [main] Get history order is OK
